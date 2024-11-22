@@ -6,45 +6,44 @@ A comprehensive analytics system for processing and visualizing FC Bayern Munich
 
 ### Player Performance Analysis
 
-Pass metrics (total, success rate, key passes, etc.)
-Shooting statistics
-Aerial duel performance
-Interactive radar charts for player comparison
+- Pass metrics (total, success rate, key passes, etc.)
+- Shooting statistics
+- Aerial duel performance
+- Interactive radar charts for player comparison
 
 ### Data Processing
 
-Custom Python package for match data processing
-Efficient event data extraction
-Real-time metric calculations
+- Custom Python package for match data processing
+- Efficient event data extraction
+- Real-time metric calculations
 
 ### Interactive Dashboard
 
-Player comparison views
-Team performance analytics
-Historical trend analysis
-Customizable visualizations
+- Player comparison views
+- Team performance analytics
+- Historical trend analysis
+- Customizable visualizations
 
 ## 🛠 Tech Stack
 
 ### Backend
 
-Python 3.11+
-PostgreSQL
-SQLAlchemy
-FastAPI
+- Python 3.11+
+- PostgreSQL
+- SQLAlchemy
+- FastAPI
 
 ### Frontend
 
-Streamlit
-Plotly
+- Streamlit
+- Plotly
 
 ### Development
 
-Poetry (dependency management)
-Docker & Docker Compose
-pytest (testing)
-Black & isort (code formatting)
-mypy (type checking)
+- Poetry (dependency management)
+- Docker & Docker Compose
+- pytest (testing)
+- Black & isort (code formatting)
 
 ## 🚀 Quick Start
 
